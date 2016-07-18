@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trade</string>
+    <string name="resource">Resources</string>
+    <string name="stocks">Stocks</string>
+    <string name="currency">Currency</string>
+    <string name="menu_1">Filter</string>
+    <string name="menu_2">Settings</string>
+    <string name="menu_3">Sign out</string>
+    <string name="hint_email">Type your email</string>
+    <string name="hint_password">Type your password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create account</string>
+    <string name="sign_out">Sign out</string>
+    <string name="loading">Loading...</string>
+</resources>
